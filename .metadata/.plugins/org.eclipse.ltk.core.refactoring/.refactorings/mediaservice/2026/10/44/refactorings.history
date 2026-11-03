@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.mediaService.mediaservice.serviceimpl.ServiceImpl.java&apos; to &apos;MediaServiceImpl.java&apos;&#x0D;&#x0A;- Original project: &apos;mediaservice&apos;&#x0D;&#x0A;- Original element: &apos;com.mediaService.mediaservice.serviceimpl.ServiceImpl.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.mediaService.mediaservice.serviceimpl.MediaServiceImpl.java&apos;" description="Rename compilation unit &apos;ServiceImpl.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.mediaService.mediaservice.serviceimpl{ServiceImpl.java" name="MediaServiceImpl.java" references="false" stamp="1793358681922" version="1.0"/>
+</session>

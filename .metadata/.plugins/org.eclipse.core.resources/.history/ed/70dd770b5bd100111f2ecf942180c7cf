@@ -1,0 +1,5 @@
+package com.notificationService.notificationservice.repository;
+
+public interface NotificationServiceRepository {
+
+}

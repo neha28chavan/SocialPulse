@@ -1,0 +1,5 @@
+package com.chatService.chatservice.serviceimpl;
+
+public class ChatServiceImpl {
+
+}

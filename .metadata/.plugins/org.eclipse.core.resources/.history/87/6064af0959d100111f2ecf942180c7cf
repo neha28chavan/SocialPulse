@@ -1,0 +1,5 @@
+package com.notificationService.notificationservice.entity;
+
+public class Notification {
+
+}

@@ -1,0 +1,5 @@
+package com.mediaService.mediaservice.entity;
+
+public class MediaFile {
+
+}

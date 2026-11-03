@@ -1,0 +1,5 @@
+package com.notificationService.notificationservice.controller;
+
+public class NotificationServiceController {
+
+}

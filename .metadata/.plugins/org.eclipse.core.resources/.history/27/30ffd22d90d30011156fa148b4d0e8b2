@@ -1,0 +1,5 @@
+package com.chatService.chatservice.model;
+
+public class ChatMessage {
+
+}

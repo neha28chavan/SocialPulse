@@ -1,0 +1,5 @@
+package com.mediaService.mediaservice.controller;
+
+public class MediaController {
+
+}

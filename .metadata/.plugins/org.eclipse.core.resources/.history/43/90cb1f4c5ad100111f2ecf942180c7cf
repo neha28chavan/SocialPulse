@@ -1,0 +1,31 @@
+package com.notificationService.notificationservice.serviceimpl;
+
+public class ServiceImpl {
+
+}
+package com.notificationservice.service.impl;
+
+import com.notificationservice.entity.Notification;
+import com.notificationservice.repository.NotificationRepository;
+import com.notificationservice.service.NotificationService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import java.util.List;
+
+@Service
+public class NotificationServiceImpl implements NotificationService {
+
+    @Autowired
+    private NotificationRepository notificationRepository;
+
+    @Override
+    public List<Notification> getAllNotifications() {
+        return notificationRepository.findAll();
+    }
+
+    @Override
+    public Notification sendNotification(Notification notification) {
+        return notificationRepository.save(notification);
+    }
+}

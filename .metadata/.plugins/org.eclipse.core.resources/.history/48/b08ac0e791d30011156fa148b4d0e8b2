@@ -1,0 +1,5 @@
+package com.chatService.chatservice.config;
+
+public class WebSocketConfig {
+
+}
